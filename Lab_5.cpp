@@ -1,6 +1,5 @@
 #include "GraphicsForm.h"
 
-// Comment
 
 int main()
 {
