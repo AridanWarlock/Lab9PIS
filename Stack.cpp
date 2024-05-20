@@ -11,3 +11,4 @@ int Sub(int a, int b) {
 int Mult(int a) {
 	return 1;
 }
+// 1234
